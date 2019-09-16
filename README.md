@@ -1,5 +1,5 @@
 # SmartHome
-# ASP.NET Core开发者指南
+# Smart Home开发者指南
 
 > 2019年[ASP.NET Core](https://docs.microsoft.com/zh-cn/aspnet/core/?view=aspnetcore-2.2)开发者指南:
 
@@ -46,7 +46,9 @@
    2. [针对特定产品的开发者平台]()
       - [小米 IOT]()
       - [QQ互联]()
-   3. [Scrutor](https://github.com/khellang/Scrutor)
+   3. [国外IOT平台]()
+      - [亚马逊云](https://www.amazonaws.cn/iot/)
+      - [Azure 云](https://www.azure.cn/zh-cn/)
 
 4. 数据库
 
