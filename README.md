@@ -43,7 +43,9 @@
       - [腾讯云 物联网通讯](https://cloud.tencent.com/product/iothub)
       - [百度云 天工](https://cloud.baidu.com/solution/iot/index.html)
       - [中国移动 OneNET](https://open.iot.10086.cn)
-   2. [生命周期](https://docs.microsoft.com/zh-cn/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-2.2#service-lifetimes)
+   2. [针对特定产品的开发者平台]()
+      - [小米 IOT]()
+      - [QQ互联]()
    3. [Scrutor](https://github.com/khellang/Scrutor)
 
 4. 数据库
