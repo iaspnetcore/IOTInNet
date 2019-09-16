@@ -50,7 +50,7 @@
       - [亚马逊云](https://www.amazonaws.cn/iot/)
       - [Azure 云](https://www.azure.cn/zh-cn/)
 
-4. 嵌入式设备
+4. IOT 设备端
 
    1. 嵌入式开发板
       1. [树莓派]()
