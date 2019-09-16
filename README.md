@@ -35,14 +35,14 @@
    - 学习[dotnet CLI](https://docs.microsoft.com/zh-cn/dotnet/core/tools/?tabs=netcore2x)
    - 阅读一些关于算法和数据结构的书籍
 
-3. 依赖注入
+3. IOT 平台
 
-   1. DI容器
-      - [Microsoft.Extensions.DependencyInjection](https://docs.microsoft.com/zh-cn/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-2.2)
-      - [AutoFac](https://autofaccn.readthedocs.io/en/latest/integration/aspnetcore.html)
-      - [Ninject](http://www.ninject.org/)
-      - [StructureMap](https://github.com/structuremap/structuremap)
-      - [Castle Windsor](https://github.com/castleproject/Windsor)
+   1.  国内IOT平台
+      - [阿里云 IOT](https://iot.aliyun.com/)
+      - [华为物联网](https://developer.huawei.com/ict/cn/site-iot-next)
+      - [腾讯云 物联网通讯](https://cloud.tencent.com/product/iothub)
+      - [百度云 天工](https://cloud.baidu.com/solution/iot/index.html)
+      - [中国移动 OneNET](https://open.iot.10086.cn)
    2. [生命周期](https://docs.microsoft.com/zh-cn/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-2.2#service-lifetimes)
    3. [Scrutor](https://github.com/khellang/Scrutor)
 
