@@ -50,11 +50,11 @@
       - [亚马逊云](https://www.amazonaws.cn/iot/)
       - [Azure 云](https://www.azure.cn/zh-cn/)
 
-4. 数据库
+4. 嵌入式设备
 
-   1. 关系数据库
-      1. [SQL Server](https://www.microsoft.com/zh-cn/sql-server/sql-server-2017)
-      2. [PostgreSQL](https://www.postgresql.org/)
+   1. 嵌入式开发板
+      1. [树莓派]()
+      2. [国产香橙派]()
       3. [MariaDB](https://mariadb.org/)
       4. [MySQL](https://www.mysql.com/)
    2. 云数据库
@@ -209,5 +209,5 @@
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-# 更多技术干货请微信关注公号「dotNET匠人」，持续输出优质的技术文章~
+# 更多技术干货请微信关注公号「AspNetCore」，持续输出优质的技术文章~
 
