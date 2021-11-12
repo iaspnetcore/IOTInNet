@@ -29,7 +29,7 @@
 
 2. 通用开发技能
 
-   - 学习GIT, 在GitHub中创建开源项目
+   - FRP+WoL实现远程开机+树莓派 + 远程桌面 https://www.cnblogs.com/thecatcher/p/13210748.html
    - 掌握HTTP(S)协议, 及其请求方法(GET, POST, PUT, PATCH, DELETE, OPTIONS)
    - 不要害怕使用 Google, [Google搜索技巧](http://www.powersearchingwithgoogle.com/)
    - 学习[dotnet CLI](https://docs.microsoft.com/zh-cn/dotnet/core/tools/?tabs=netcore2x)
