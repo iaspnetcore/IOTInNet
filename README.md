@@ -72,10 +72,10 @@
       - [RavenDB](https://github.com/ravendb/ravendb)
       - [CouchDB](http://couchdb.apache.org/)
 
-5. 缓存
+5. 生产环境第三方SDK的选择参考
 
-   1. 实体框架二级缓存
-      1. [EFSecondLevelCache.Core](https://github.com/VahidN/EFSecondLevelCache.Core)
+   1. 天翼云电脑APP接入使用的第三方提供SDK
+      1. [天翼云电脑APP接入使用以下由第三方提供的SDK（生产环境第三方SDK的选择参考）](https://www.iaspnetcore.com/Blog/BlogPost/616206fe8976be06f7c51cc6/cloud-desktop)
       2. [EntityFrameworkCore.Cacheable](https://github.com/SteffenMangold/EntityFrameworkCore.Cacheable)
    2. [分布式缓存](https://docs.microsoft.com/en-us/aspnet/core/performance/caching/distributed?view=aspnetcore-2.2)
       1. [Redis](https://redis.io/)
