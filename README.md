@@ -68,10 +68,10 @@
       2. [Memcached](https://memcached.org/)
    3. [内存缓存](https://docs.microsoft.com/en-us/aspnet/core/performance/caching/memory?view=aspnetcore-2.2)
 
-6. https://www.awesome-ha.com/
+6. Home Assistant  
 
-   1. 日志框架
-      - [Serilog](https://github.com/serilog/serilog)
+   1. Beginner’s Guide
+      - [Beginner’s Guide to Home Assistant Architecture](https://www.awesome-ha.com/)
       - [NLog](https://github.com/NLog/NLog)
       - [Elmah](https://elmah.github.io/)
    2. 日志管理系统
