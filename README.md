@@ -68,7 +68,7 @@
       2. [Memcached](https://memcached.org/)
    3. [内存缓存](https://docs.microsoft.com/en-us/aspnet/core/performance/caching/memory?view=aspnetcore-2.2)
 
-6. 日志
+6. https://www.awesome-ha.com/
 
    1. 日志框架
       - [Serilog](https://github.com/serilog/serilog)
