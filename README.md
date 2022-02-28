@@ -4,7 +4,7 @@
 ## Contents
 
 * [General](#general)
-* [Optimizing your ASP.NET core MVC site for Search](#optimizing-your-site-for-search)
+* [Home Assistant](#Home-Assistant)
   * [Title](#Title-SEO)
   * [Body](#body)
   * [Header](#header)
